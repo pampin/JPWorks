@@ -70,9 +70,6 @@ author:
     - label: "Instagram"  
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/dxarts"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
 
 footer:
   links:
@@ -85,9 +82,6 @@ footer:
     - label: "Instagram"  
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/dxarts"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
 
 defaults:
   # _posts
