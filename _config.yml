@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Juan Pampin"
   avatar : "/assets/images/juanphoto01.jpg"
-  bio    : "Art, Technology & Ideas."
+  bio    : "Art || Technology && Ideas"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
