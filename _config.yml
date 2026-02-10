@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: JP Works
+title: Juan Pampin
 email: juan@pampin.org
 description: >- # this means to ignore newlines until "baseurl:"
   site documenting artistic & research work by Juan Pampin.
@@ -23,17 +23,23 @@ github_username: pampin
 minimal_mistakes_skin: dark
 search: true
 
+# added by JP
+locale: "en-US"
+# title_separator: "|"
+subtitle: "Art / Technology & Ideas"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _portfolio
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -71,17 +77,17 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/dxarts"
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/pampin"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://dxarts.washington.edu/"
-    - label: "Instagram"  
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/dxarts"
+# footer:
+#   links:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/pampin"
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://dxarts.washington.edu/"
+#     - label: "Instagram"  
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/dxarts"
 
 defaults:
   # _posts
@@ -89,19 +95,34 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
+      # layout: single
+      layout: splash
+      author_profile: false
+      read_time: false
+      comments: false
       share: true
       related: true
+      # JP
+      show_date: false
+      read_time: false
+
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
-      layout: single
-      author_profile: true
+      # layout: single
+      layout: splash
+      author_profile: false
+
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: splash
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
@@ -109,3 +130,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  works:
+    output: true
+    permalink: /:collection/:path/
