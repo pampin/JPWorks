@@ -1,33 +1,33 @@
 ---
 title: Sub Luce Maligna
 layout: splash
-permalink: /works/sub
+permalink: /works/Sub
 
 gallery:
   - url: /assets/images/sub/sub_04.jpg
     image_path: assets/images/sub/sub_04.jpg
-    alt: "placeholder image 1"
+    alt: "Sub Luce Maligna image 1"
   - url: /assets/images/sub/sub_03.jpg
     image_path: assets/images/sub/sub_03.jpg
-    alt: "placeholder image 2"
+    alt: "Sub Luce Maligna image 2"
   - url: /assets/images/sub/sub_02.jpg
     image_path: assets/images/sub/sub_02.jpg
-    alt: "placeholder image 3"
+    alt: "Sub Luce Maligna image 3"
   - url: /assets/images/sub/sub_05.jpg
     image_path: assets/images/sub/sub_05.jpg
-    alt: "placeholder image 4"
+    alt: "Sub Luce Maligna image 4"
   - url: /assets/images/sub/sub_06.jpg
     image_path: assets/images/sub/sub_06.jpg
-    alt: "placeholder image 5"
+    alt: "Sub Luce Maligna image 5"
   - url: /assets/images/sub/sub_07.jpg
     image_path: assets/images/sub/sub_07.jpg
-    alt: "placeholder image 6"
+    alt: "Sub Luce Maligna image 6"
   - url: /assets/images/sub/sub_08.jpg
     image_path: assets/images/sub/sub_08.jpg
-    alt: "placeholder image 7"
+    alt: "Sub Luce Maligna image 7"
   - url: /assets/images/sub/sub_09.jpg
     image_path: assets/images/sub/sub_09.jpg
-    alt: "placeholder image 8xx"
+    alt: "Sub Luce Maligna image 8"
  
 ---
 <br>
