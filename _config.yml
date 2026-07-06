@@ -26,11 +26,11 @@ search: true
 # added by JP
 locale: "en-US"
 # title_separator: "|"
-subtitle: "Art / Technology & Ideas"
+# subtitle: "Art / Technology & Ideas"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.28.0
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
@@ -61,21 +61,22 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  # - jekyll-polyglot
 
-author:
-  name   : "Juan Pampin"
-  avatar : "/assets/images/juanphoto01.jpg"
-  bio    : "Art / Technology & Ideas"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/pampin"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://dxarts.washington.edu/"
-    - label: "Instagram"  
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/dxarts"
+# author:
+#   name   : "Juan Pampin"
+#   avatar : "/assets/images/juanphoto01.jpg"
+#   bio    : "Art / Technology & Ideas"
+#   links:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/pampin"
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://dxarts.washington.edu/"
+#     - label: "Instagram"  
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/dxarts"
 
 # footer:
 #   links:
@@ -88,6 +89,13 @@ author:
 #     - label: "Instagram"  
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/dxarts"
+
+languages: ["en", "es"]
+default_lang: "en"
+# exclude_from_localization: ["javascript", "images", "css", "public", "sitemap", "CNAME"]
+# parallel_localization: true
+# lang_from_path: true
+# url: https://polyglot.untra.io
 
 defaults:
   # _posts
@@ -117,12 +125,13 @@ defaults:
 
   # _portfolio
   - scope:
-      path: ""
+      path: "_portfolio"
       type: portfolio
     values:
       layout: splash
       author_profile: false
       share: true
+      permalink: /portfolio/:title/
 
 category_archive:
   type: liquid

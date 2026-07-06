@@ -1,50 +1,31 @@
 ---
-title: "JP Works"
+title: "Works"
 layout: splash
+locale: "en-EN"
 permalink: /portfolio/
-# excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
-# header:
-#   image: /assets/images/foo-bar-identity.jpg
-#   teaser: /assets/images/foo-bar-identity-th.jpg
-# sidebar:
-#   - title: "Role"
-#     image: http://placehold.it/350x250
-#     image_alt: "logo"
-#     text: "Designer, Front-End Developer"
-#   - title: "Responsibilities"
-#     text: "Reuters try PR stupid commenters should isn't a business model"
-# gallery:
-#   - url: /assets/images/unsplash-gallery-image-1.jpg
-#     image_path: assets/images/unsplash-gallery-image-1-th.jpg
-#     alt: "placeholder image 1"
-#   - url: /assets/images/unsplash-gallery-image-2.jpg
-#     image_path: assets/images/unsplash-gallery-image-2-th.jpg
-#     alt: "placeholder image 2"
-#   - url: /assets/images/unsplash-gallery-image-3.jpg
-#     image_path: assets/images/unsplash-gallery-image-3-th.jpg
-#     alt: "placeholder image 3"
-
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    # url: /works/work_01.md
-    url: /works/work_01
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /works/work_02
+  # - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/images/emb/emb_mg_6616_50pc.jpeg
+    # image_caption: "photo by ???"
+    alt: "Embosquecerse"
+    title: "Embosquecerse"
+    url: /works/Embosquecerse
+    excerpt: "2022<br>In collaboration with Abigail Jara"
+  - image_path: /assets/images/tta/tta_zanella_03.jpg
+    # image_caption: "photo by Augusto Zanella"
+    alt: "Time and Time Again"
+    title: "Time and Time Again"
+    excerpt: "2024<br>In collaboration with Leo Nuñez"
+    url: /works/TTA
     # url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    url: /works/work_03
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/sub/sub_01_copy.png
+    title: "Sub Luce Maligna"
+    url: /works/Sub
+    excerpt: "2026<br>In collaboration with Abigail Jara"
 ---
 <br>
 {% include feature_row %}
+<a href="/portfolio/es">Spanish version</a>
 
