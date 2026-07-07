@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /pages/about
 title: "About"
 ---
 <br>
@@ -14,4 +14,4 @@ After many years of limiting my online presence as much as possible, I decided t
 
 *––JP*
 
-<a href="/es/">Spanish version</a>
+<a href="/pages/es/about">Spanish version</a>
