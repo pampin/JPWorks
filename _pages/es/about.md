@@ -15,4 +15,4 @@ Después de muchos años de limitar lo más posible mi presencia en internet, de
 
 *––JP*
 
-<a href="/about/">English version</a>
+<a href="/JPWorks/about/">English version</a>
