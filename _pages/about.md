@@ -14,4 +14,4 @@ After many years of limiting my online presence as much as possible, I decided t
 
 *––JP*
 
-<a href="/about-es">Spanish version</a>
+<a href="/about-es/">Spanish version</a>
