@@ -29,4 +29,4 @@ feature_row:
 ---
 <br>
 {% include feature_row %}
-<a href="/portfolio/">English version</a>
+<a href="/JPWorks/portfolio/">English version</a>
