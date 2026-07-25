@@ -36,7 +36,7 @@ gallery:
 2026<br>
 en colaboración con Abigail Jara
 
-{% include gallery class="fourth" caption="Imágenes de la parformance de *Sub Luce Maligna* en el teatro Casa de la Paz, Ciudad de México." %}
+{% include gallery class="fourth" caption="Imágenes de la performance de *Sub Luce Maligna* en el teatro Casa de la Paz, Ciudad de México." %}
 
 *Iban oscuros por las sombras bajo la noche solitaria<br>
 y a través de las casas vacías de Dite y sus fantasmales reinos<br> 
@@ -63,6 +63,18 @@ Performers DAJU (UNAM): *Sof Jara, Diego Saldaña Ramírez, Areli Itzel Ávila A
 
 Co-producción: *DXARTS, University of Washington; Facultad de Danza, Universidad Veracruzana; Teatro Casa de la Paz, Universidad Autónoma Metropolitana.*
 
+<div class="grid">
+    <div class="figure">
+        <iframe src="https://player.vimeo.com/video/1183982008"  frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"></iframe>
+    </div>
+    <div class="figure">
+        <iframe src="https://player.vimeo.com/video/1183989571"   frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"></iframe>
+    </div>
+    <div class="figure">
+        <iframe src="https://player.vimeo.com/video/1183992953"   frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"></iframe>
+    </div>
+</div>
+*Sub Luce Maligna* secciones I a III
 <br>
 <br>
 <br>
