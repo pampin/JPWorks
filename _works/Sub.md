@@ -62,6 +62,19 @@ Performers DAJU (UNAM): *Sof Jara, Diego Saldaña Ramírez, Areli Itzel Ávila A
 
 Co-production: *DXARTS, University of Washington; Facultad de Danza, Universidad Veracruzana; Teatro Casa de la Paz, Universidad Autónoma Metropolitana*
 
+<div class="grid">
+    <div class="figure">
+        <iframe src="https://player.vimeo.com/video/1183982008"  frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"></iframe>
+    </div>
+    <div class="figure">
+        <iframe src="https://player.vimeo.com/video/1183989571"   frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"></iframe>
+    </div>
+    <div class="figure">
+        <iframe src="https://player.vimeo.com/video/1183992953"   frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"></iframe>
+    </div>
+</div>
+*Sub Luce Maligna* sections I to III
+
 <br>
 <br>
 <br>
