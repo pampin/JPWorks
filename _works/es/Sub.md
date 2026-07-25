@@ -1,7 +1,7 @@
 ---
 title: Sub Luce Maligna
 layout: splash
-permalink: /works/es/sub
+permalink: /works/es/Sub
 
 gallery:
   - url: /assets/images/sub/sub_04.jpg
