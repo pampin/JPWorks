@@ -72,8 +72,17 @@ Co-production: *DXARTS, University of Washington; Facultad de Danza, Universidad
     <div class="figure">
         <iframe src="https://player.vimeo.com/video/1183992953"   frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"></iframe>
     </div>
+    <div class="figure">
+        <iframe src="https://player.vimeo.com/video/1212963125"   frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"></iframe>
+    </div>
+    <div class="figure">
+        <iframe src="https://player.vimeo.com/video/1212963828"   frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"></iframe>
+    </div>
+    <div class="figure">
+        <iframe src="https://player.vimeo.com/video/1212965139"   frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"></iframe>
+    </div>
 </div>
-*Sub Luce Maligna* sections I to III
+*Sub Luce Maligna* sections I to VI
 
 <br>
 <br>
