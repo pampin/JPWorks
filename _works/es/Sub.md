@@ -59,7 +59,7 @@ Asistencia técnica: *Daniel Peterson y Cristina Brambila*
 
 Performers Plataforma UV: *Selene Sore, Braulio Escobedo, Lexi Barradas, Kun Betza, Rodrigo Caudillo*
 
-Performers DAJU (UNAM): *Sof Jara, Diego Saldaña Ramírez, Areli Itzel Ávila Acosta, Fernando Daniel Ocampo Mata, Erick David Falcón Morales, Catherine García Jiménez*
+Performers DAJU (UNAM): *Sof Jara, Diego Saldaña Ramírez, Areli Itzel Ávila Acosta, Fernando Daniel Ocampo Mata, Erick David Falcón Morales, Sabina Villagómez*
 
 Co-producción: *DXARTS, University of Washington; Facultad de Danza, Universidad Veracruzana; Teatro Casa de la Paz, Universidad Autónoma Metropolitana.*
 
